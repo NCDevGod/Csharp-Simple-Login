@@ -1,0 +1,10 @@
+E:\NC Dev\Windows Application Programming\C#\Simple Login\bin\Debug\Simple Login.exe.config
+E:\NC Dev\Windows Application Programming\C#\Simple Login\bin\Debug\Simple Login.exe
+E:\NC Dev\Windows Application Programming\C#\Simple Login\bin\Debug\Simple Login.pdb
+E:\NC Dev\Windows Application Programming\C#\Simple Login\obj\Debug\Simple Login.csprojResolveAssemblyReference.cache
+E:\NC Dev\Windows Application Programming\C#\Simple Login\obj\Debug\Simple_Login.FrmLogin.resources
+E:\NC Dev\Windows Application Programming\C#\Simple Login\obj\Debug\Simple_Login.FrmLoginSuccess.resources
+E:\NC Dev\Windows Application Programming\C#\Simple Login\obj\Debug\Simple_Login.Properties.Resources.resources
+E:\NC Dev\Windows Application Programming\C#\Simple Login\obj\Debug\Simple Login.csproj.GenerateResource.Cache
+E:\NC Dev\Windows Application Programming\C#\Simple Login\obj\Debug\Simple Login.exe
+E:\NC Dev\Windows Application Programming\C#\Simple Login\obj\Debug\Simple Login.pdb
